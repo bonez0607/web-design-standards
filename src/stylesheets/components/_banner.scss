@@ -135,7 +135,7 @@
   position: absolute;
   text-decoration: underline;
   top: 0;
-  width: 100%;
+  width: auto;
 
   @include media($small-screen) {
     @include padding(0 null null 0);
